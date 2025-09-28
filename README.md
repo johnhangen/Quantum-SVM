@@ -74,4 +74,4 @@ The main notebook is structured in the following sections:
 | Model | Training Time | Test Accuracy | Key Insights |
 |-------|---------------|---------------|--------------|
 | Classical SVM | ~1.2 seconds | 52.1% | Baseline performance with full dataset |
-| Quantum SVM | Limited subset | In progress | Computationally intensive, requires optimization |
+| Quantum SVM | Limited subset | 75.0% | Computationally intensive, overfitting to dominate class |
